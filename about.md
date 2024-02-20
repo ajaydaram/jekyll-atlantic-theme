@@ -1,41 +1,40 @@
 ---
 layout: basic
 title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+date: 2024-02-20T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "Welcome to our church history website"
 image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 ---
 
-# Creating Modern Websites
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+---
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## About Our Church History Website
 
-## What is Web Design?
+Welcome to our Church History website, where we delve into the rich tapestry of our faith's past to illuminate our present and guide our future. Our mission is to provide a comprehensive resource for exploring the history of Christianity, from its earliest roots to the present day.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+### Our Purpose
 
-## Front-end Development
+We believe that understanding our past is crucial for shaping our identity as a faith community. By studying the lives of the saints, the development of doctrine, and the impact of historical events on the Church, we gain insight into our own beliefs and practices. Our goal is to make this history accessible and engaging for all who seek to deepen their understanding of the Christian faith.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+### What You'll Find Here
 
-> As a UX designer, you should consider the Why, What and How of product use.
+- **Timeline of Church History:** Explore key events, figures, and movements that have shaped Christianity over the centuries.
+- **Biographies:** Learn about the lives of influential Christians, from the apostles to modern-day leaders.
+- **Doctrine and Theology:** Discover the development of Christian doctrine and the debates that have shaped our understanding of God.
+- **Historical Documents:** Read primary sources from the early Church fathers, medieval theologians, and the Reformers.
+- **Church Architecture and Art:** Explore the beauty of Christian art and architecture and learn how it reflects our faith.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+### Our Commitment
 
-## Design Systems
+We are committed to presenting a balanced and inclusive view of Church history, recognizing the diversity of Christian traditions and perspectives. While we may not always agree with every viewpoint, we seek to approach our subject with humility and respect for all who have gone before us in the faith.
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+### Get Involved
 
-## Process
+We invite you to join us on this journey through Church history. Whether you are a student, a pastor, a scholar, or simply someone with a curiosity about the past, there is a place for you here. Together, let us explore the depths of our shared heritage and draw inspiration for our lives today.
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
+Thank you for visiting our Church History website. We hope you find it informative, inspiring, and a valuable resource for your faith journey.
 
-- User experience research
-- Visual design and illustration
-- Programming and coding
+---
 
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
