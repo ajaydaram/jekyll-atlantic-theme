@@ -5,7 +5,7 @@ layout: post
 categories: ["Calvin-Devotions"]
 description: Gal 6:14-18
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "https://source.unsplash.com/YmQ0-nmWcV0/1600x900"
+image: "https://www.worldhistory.org/img/r/p/1500x1500/14846.png.webp?v=1690175884"
 ---
 Galatians 6:14-18:
 
