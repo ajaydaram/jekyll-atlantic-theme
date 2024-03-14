@@ -5,7 +5,7 @@ layout: post
 categories: ["Warfield-Devotions"]
 description: BENJAMIN B. WARFIELD
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "http://digitalpuritan.net/wp-content/uploads/2014/06/johnbunyana.jpeg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/BBWarfieldPhoto.jpg/240px-BBWarfieldPhoto.jpg"
 ---
 
 Benjamin Breckinridge Warfield, one of the foremost Princeton theologians after Charles Hodge, delivered this address to young men training for the ministry. While some of its language and concepts may seem dated, its core principles—that theological education should be integrated with practical Christian living and worship, and that the privilege of theological education entails great responsibilities—remain relevant to students of theology.
