@@ -5,7 +5,7 @@ layout: post
 categories: ["Pink-Devotions"]
 description: A.W Pink
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "http://digitalpuritan.net/wp-content/uploads/2014/06/johnbunyana.jpeg"
+image: "https://www.chapellibrary.org/images/authors/pinkarthurw.jpg?width=281"
 ---
 The theology of the last century failed notably in two crucial areas: its teachings about God and about fallen humanity. As an Australian writer recently put it, "On the one hand, they did not ascend high enough... on the other hand, they did not descend low enough." God is infinitely greater, and His dominion is far more absolute and extensive. Man has fallen much lower and is far more depraved than commonly believed. Consequently, a person's conduct toward their Maker is vastly more evil than commonly supposed. Sin's horrific nature can only truly be understood in the light of Holy Scripture. Sin is infinitely more vile in its nature than many realize. While people may admit to sinning, very few truly see sin as it is.
 
