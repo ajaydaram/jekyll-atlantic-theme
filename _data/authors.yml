@@ -1,8 +1,11 @@
 daram_ajay:
   name: 'Daram Ajay'
   image: 'assets/images/author/sage-kirk.jpg'
-  twitter: '@zerostaticio'
+  
 william_tyndale:
   name: 'William Tyndale'
   image: 'assets/images/author/mike-vance.jpg'
-  twitter: '@zerostaticio'
+  
+  john_bunyan:
+  name: 'John Bunyan'
+  image: 'assets/images/author/alexander-andrews.jpg'
