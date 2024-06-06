@@ -5,7 +5,7 @@ layout: post
 categories: ["Beeke-Devotions"]
 description: "Joel Beeke on God's Sovereignty"
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
-image: "http://digitalpuritan.net/wp-content/uploads/2014/06/johnbunyana.jpeg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portait_Joel_R._Beeke.jpg/440px-Portait_Joel_R._Beeke.jpg"
 ---
 ### God's Sovereignty
 
